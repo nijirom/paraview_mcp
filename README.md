@@ -63,11 +63,3 @@ S. Liu, H. Miao, and P.-T. Bremer, “Paraview-MCP: Autonomous Visualization Age
   organization={IEEE}
 }
 ```
-
-## Authors 
-Paraview_MCP was created by Shusen Liu (liu42@llnl.gov) and Haichao Miao (miao1@llnl.gov)
-
-## License
-Paraview_MCP is distributed under the terms of the BSD-3 license.
-
-LLNL-CODE-2007260
